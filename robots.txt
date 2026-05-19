@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yohoslot-winds-of-wealth-ru-349.onrender.com/sitemap.xml
+Sitemap: https://srv-d864brbtqb8s73c4npkg.onrender.com/sitemap.xml
